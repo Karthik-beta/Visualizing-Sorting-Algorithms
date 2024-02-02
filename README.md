@@ -20,10 +20,11 @@ Welcome to the Sorting Algorithm Visualizations repository! This project aims to
 
 ## Usage
 
-To run the visualizations, follow these steps:
+To run the visualizations, follow this step:
 
-1. Clone the repository:
+Clone the repository:
 
 ```bash
 git clone https://github.com/karthik-beta/sorting-algorithms-visualization.git
-cd sorting-algorithms-visualization
+
+# cd sorting-algorithms-visualization
