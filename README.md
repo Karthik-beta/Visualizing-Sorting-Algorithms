@@ -26,5 +26,3 @@ Clone the repository:
 
 ```bash
 git clone https://github.com/karthik-beta/sorting-algorithms-visualization.git
-
-# cd sorting-algorithms-visualization
