@@ -20,7 +20,7 @@ Welcome to the Sorting Algorithm Visualizations repository! This project aims to
 
 ## Usage
 
-To run the visualizations, follow this step:
+<!-- To run the visualizations, follow this step: -->
 
 Clone the repository:
 
